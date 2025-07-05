@@ -11,7 +11,7 @@ This repository collects all teaching materials for our Data Analytics curriculu
 - **Interactive Jupyter Notebooks** (ipynb_checkpoints)
 - **Programming Assignments** on regression, classification, and visualization
 
-These resources formed the foundation for our own “Data Analytics Activities” portfolio, providing real-world case studies and code examples in Python, HTML, and JavaScript.
+These resources formed the foundation for our own “Data Analytics Activities” portfolio, providing real-world case studies and code examples in Python.
 
 ---
 
