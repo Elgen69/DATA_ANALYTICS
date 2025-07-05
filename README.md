@@ -15,5 +15,4 @@ These resources formed the foundation for our own “Data Analytics Activities�
 
 ---
 
-## 🗂️ Contents
 
